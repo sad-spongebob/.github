@@ -12,7 +12,7 @@
 <hr>
 <p align="center">
 -
-<a href="./thankyou.md">thank you for stopping by</a>
+<a href="https://github.com/sad-spongebob/thank-you/blob/main/thank-you.md">thank you for stopping by</a>
 -
 </p>
 <hr>
