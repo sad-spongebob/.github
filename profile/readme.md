@@ -1,10 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/1up64"> 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/TDHzLEg" data-context="false" ><a href="//imgur.com/a/TDHzLEg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</p>
-
 #### we may be sad but we still be spongebob <3 ⭐️✨
 
 <img src="https://github.com/1up64/Sad-Spongebob/blob/main/docs/angai313-spongebob-sad.gif?raw=true" alt="Sad Spongebob" width="300"/><br>
