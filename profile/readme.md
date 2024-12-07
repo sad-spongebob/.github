@@ -1,5 +1,11 @@
 <div align="center">
 
+<p align="center">
+  <a href="https://github.com/1up64"> 
+<img src="https://readme-typing-svg.demolab.com/?lines=Sad%20Spongebob%20group&font=mona%20sans&center=true&width=700&height=45&color=FFFF00&vCenter=true&pause=1000&size=45" /></a>
+</p>
+
+
 #### we may be sad but we still be spongebob <3 ⭐️✨
 
 <img src="https://github.com/1up64/Sad-Spongebob/blob/main/docs/angai313-spongebob-sad.gif?raw=true" alt="Sad Spongebob" width="300"/><br>
